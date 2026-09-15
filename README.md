@@ -1,21 +1,22 @@
 # linux-admin-lab
 
-Main goal of this project is to learn by practice how to administrate linux servers
+Main goal of this project is to learn by practice learn how to administer Linux servers
 
 # Technologies to learn:
--Linux administration
--networking
--troubleshooting
--security
--automation
+- Linux administration
+- networking
+- troubleshooting
+- security
+- automation
 
 # Environment
--Ubuntu 24.04.4
--Oracle VirtualBox
--RAM 3.8 GB
--Disk 25 GB
+- Windows 11 host
+- Ubuntu Server 24.04.4 LTS guest
+- Oracle VirtualBox
+- RAM 3.8 GB
+- Disk 25 GB
 
 # Progress
--Launching Linux Server
--Basic introduciton to server
--Documentation
+- [x] Launching Linux Server
+- [x] Basic introduction to Linux server
+- [x] Documentation
