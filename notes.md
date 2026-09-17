@@ -23,3 +23,16 @@
 `journalctl -u` - used to view logs for a specific systemd service  
 `journalctl -n` - used to limit the output to the latest entries  
 `grep` - used to search for specific text in command output or files
+lsblk - used to display block devices, disks and partitions
+lsblk -f - used to display filesystems, UUIDs and mount points
+df -h - used to display filesystem disk usage
+du -h - used to display disk usage of files and directories
+du -h --max-depth=1 - used to display disk usage of directories at a specific level
+fdisk - used to create and manage disk partitions
+mkfs.ext4 - used to create an ext4 filesystem
+mount - used to mount a filesystem to a directory
+UUID - a unique identifier assigned to a filesystem
+fstab - a configuration file used to define filesystems that should be mounted automatically
+
+mount -a - used to mount all filesystems configured in /etc/fstab
+cat /etc/fstab - used to display the filesystem mount configuration
