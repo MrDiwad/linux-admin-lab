@@ -19,3 +19,7 @@
 `systemctl list-units`- used to list loaded systemd units
 `grep` - used to search for text in command output or files
 `ss` - used to display network sockets and listening ports
+`journalctl` - used to view system logs  
+`journalctl -u` - used to view logs for a specific systemd service  
+`journalctl -n` - used to limit the output to the latest entries  
+`grep` - used to search for specific text in command output or files
