@@ -14,3 +14,8 @@
 `ip addr` - used to display network interfaces, their state and IP addresses  
 `ip route` - used to display the routing table and default gateway  
 `ping` - used to check connectivity with another host
+`systemctl` - used to manage and check system services
+`systemctl status` - used to check the status of a service
+`systemctl list-units`- used to list loaded systemd units
+`grep` - used to search for text in command output or files
+`ss` - used to display network sockets and listening ports
