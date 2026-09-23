@@ -36,3 +36,11 @@ fstab - a configuration file used to define filesystems that should be mounted a
 
 mount -a - used to mount all filesystems configured in /etc/fstab
 cat /etc/fstab - used to display the filesystem mount configuration
+
+ufw status verbose - used to display detailed UFW status, default policies and rules
+ufw status numbered - used to display UFW rules with their numbers
+ufw allow from - used to allow traffic only from a specific IP address or network
+ufw default deny incoming - used to block incoming traffic by default
+ufw delete - used to remove a UFW rule
+ss -l - used to display listening network sockets
+ss -ltnp - used to display listening TCP sockets, ports and associated processes
