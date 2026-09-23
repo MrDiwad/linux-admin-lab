@@ -31,7 +31,7 @@ Main goal of this project is to learn by practice learn how to administer Linux 
 - [x] Services and systemd
 - [x] Logs and troubleshooting
 - [x] Disk and storage management
-- [ ] Security and firewall
+- [x] Security and firewall
 - [ ] Bash scripting
 - [ ] Automation
 - [ ] Backup and recovery
