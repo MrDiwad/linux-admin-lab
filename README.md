@@ -32,7 +32,7 @@ Main goal of this project is to learn by practice learn how to administer Linux 
 - [x] Logs and troubleshooting
 - [x] Disk and storage management
 - [x] Security and firewall
-- [ ] Bash scripting
-- [ ] Automation
+- [x] Bash scripting
+- [x] Automation
 - [ ] Backup and recovery
 - [ ] Final troubleshooting scenarios
