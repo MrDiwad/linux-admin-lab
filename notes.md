@@ -128,8 +128,10 @@
 
 `tar -cf` - used to create a tar archive
 
-`tar -tf` - used to display the contents of a tar archive
+`date +%Y-%m-%d` - used to display the current date in YYYY-MM-DD format
 
-`tar -xf` - used to extract files from a tar archive
+`tar --strip-components=1` - used to remove the first directory from file paths when extracting an archive
 
-`rm -r` - used to recursively remove a directory and its contents
+`OnCalendar=` - defines a calendar-based schedule for a systemd timer
+
+`Persistent=true` - causes a missed timer run to be executed after the system starts
