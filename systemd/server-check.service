@@ -1,0 +1,8 @@
+[Unit]
+Description=Server health check
+
+[Service]
+Type=onshot
+ExecStart=/home/admin/server-check.sh
+StandardOutput=append:/home/admin/server-check.log
+StandardError=append:/home/admin/server-check.log
