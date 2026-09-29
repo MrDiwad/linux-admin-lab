@@ -35,4 +35,4 @@ Main goal of this project is to learn by practice learn how to administer Linux 
 - [x] Bash scripting
 - [x] Automation
 - [x] Backup and recovery
-- [ ] Final troubleshooting scenarios
+- [x] Final troubleshooting scenarios
